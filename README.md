@@ -1,3 +1,3 @@
 # CIS2131-Fall2026
 
-<img width="335" height="202" alt="image" src="https://github.com/user-attachments/assets/a7d3ef61-4f62-425c-a24b-487468a2a14d" />
+<img width="463" height="268" alt="image" src="https://github.com/user-attachments/assets/d85d38e7-b729-4a24-8a1b-bb7bb1e8c657" />
