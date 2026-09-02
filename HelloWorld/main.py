@@ -1,1 +1,4 @@
-print('hello world!')
+print('hello eric charnesky he/him doctoral dropout')
+print('eric has 7 kids, and likes to run marathons and play Dungeons and Dragons')
+print("economics because it's fancy")
+print('something else')
